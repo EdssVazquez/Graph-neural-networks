@@ -1,2 +1,2 @@
-# deep-learning-algorithms
-Building deep neural models
+# Graph neural networks 
+Building graph neural networks on Tensorflow
